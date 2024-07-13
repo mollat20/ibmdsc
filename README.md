@@ -1,1 +1,2 @@
-Repository related to IBM course in data science
+Personal repository related to IBM course in data science.
+Exercises and Lab assignments are uploaded here.
